@@ -9,14 +9,15 @@
 ## Acesso 
 [https://boston-celtics--regressao-linear.streamlit.app/](https://boston-celtics--regressao-linear.streamlit.app/)
 
-## Especificações
+## Especificações Gerais
 - **Time**: Boston Celtics
 - **Temporada**: 2024-25
-- **Modelo**: Regressão Linear Múltipla
+- **Modelo**: Primeira parte: Regressão Linear Múltipla | Segunda parte: Regressão Logística
 - **Variáveis**: Pontos, Rebotes, Assistências e outras estatísticas
 
 ## Sobre o Projeto
-Primeira parte da atividade de análise de dados esportivos utilizando **Regressão Linear**. Esta aplicação web permite explorar relações estatísticas do Boston Celtics na temporada 2024/25.
+Primeira parte da atividade utilizando Regressão Linear para explorar relações estatísticas do Boston Celtics na temporada 2024/25.
+Segunda parte da atividade utilizando Regressão Logística, com mesma estrutura geral, mas aplicada a problemas de classificação.
 
 ## Funcionalidades
 - **Análise Estatística**: Explore relações entre diferentes estatísticas do time
